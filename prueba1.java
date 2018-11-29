@@ -14,5 +14,6 @@ class prueba1
         op= pi * ( rad * rad );
         System.out.println("La longitud es : " + lon);
         System.out.println("El área del círculo es: " + op);
+	System.ou.println("Hola!");
     }
 }
