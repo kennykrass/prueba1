@@ -16,4 +16,9 @@ class prueba1
         System.out.println("El área del círculo es: " + op);
 	System.ou.println("Hola!");
     }
+	/*public operacion()
+	{
+
+	}
+	*/
 }
