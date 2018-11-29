@@ -18,7 +18,7 @@ class prueba1
     }
 	/*public operacion()
 	{
-		string Hola = "Hola!x2";
+		tring Hola = "Hola!x2";
 	}
 	*/
 }
